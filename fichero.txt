@@ -1,1 +1,3 @@
 Pruebas de creación de fichero
+
+Prueba de conflicto en la rama secundaria.
